@@ -6,3 +6,5 @@ $ bash scripts/setup.sh
 
 $ make
 $ ./bin/publication_tracker
+
+# I have taken help of ChatGPT for this Assignment
